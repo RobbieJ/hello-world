@@ -1,5 +1,5 @@
 docker-hello-world
-==================
+===================
 
 **This image will be deprecated soon. Please use `dockercloud/hello-world` instead:**
 https://hub.docker.com/r/dockercloud/hello-world/
